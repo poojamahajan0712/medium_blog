@@ -1,5 +1,6 @@
  Pytorch basics<hr>
-* tensor creation 
-* shapes , reshape 
-* using tensors on CUDA  
+* Tensor Meaning 
+* Tensor creation 
+* Shape & Reshape 
+* Using tensors on CUDA  
 * Autograd in Pytorch
