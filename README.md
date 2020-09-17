@@ -1,9 +1,9 @@
-# medium_blog-- https://medium.com/@poojamahajan5131 
+Medium_blog-- https://medium.com/@poojamahajan5131 
 <hr>
-1. Tensors
-2. First deep learning model
-3. Resnet 
-4. Regularisation
-5. Batch Normalisation 
-6. NLP
+* Tensors
+* First deep learning model
+* Resnet 
+* Regularisation
+* Batch Normalisation 
+* NLP
 <hr>
