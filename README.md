@@ -5,4 +5,5 @@ Medium_blog-- https://medium.com/@poojamahajan5131 <hr>
 * **Regularisation**- Understanding impact of Dropout , L1 and L2 regularisations on MNIST dataset in PyTorch
 * **BN**- Batch Normalisation - Impact of using Batch Normalisation in PyTorch 
 * **NLP**- Basic NLP techniques implementation in Python  - (NER)
+* **TransferLearning**- Transfer Learning implementation using Resnet18 model on CIFAR-10 dataset in PyTorch.
 <hr>
